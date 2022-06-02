@@ -1,0 +1,5 @@
+main/node_modules
+admin/node_modules
+
+main/dist
+admin/dist
